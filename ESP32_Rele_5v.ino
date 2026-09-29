@@ -1,4 +1,4 @@
-const int relePin = 14;
+const int relePin = 32;
 
 void setup() {
   pinMode(relePin, OUTPUT);
